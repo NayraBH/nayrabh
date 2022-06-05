@@ -1,13 +1,20 @@
-### Hi, I'm Nayra 👋 
-<h4>Full Stack Web Developer</h4>
+<h2 vertical-align="baseline">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Nayra 🙋‍♀️<br> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Computer+Science+Student;Always%20learning%20new%20things&center=false&width=500&height=50"></a></h2>
 
-<p> Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. </p>
+<h3> About me: </h3>
 
+🏠 &nbsp; Gran Canaria - Canary Islands - Spain
+<br>
+🎓 &nbsp; Studying Computer Science & Engineering at <a href="https://www.uned.es">UNED</a>
+<br>
+👩‍🏫 &nbsp; Teacher Assistant at <a href="https://4geeksacademy.com/">4Geeks Academy</a>
+<br>
+💻 &nbsp; Looking for a new project to join
 <hr>
+
 
 <h3>How to reach me:</h3>
 
-<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nayrabhernandez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:nayrabhernandez@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 
@@ -46,6 +53,8 @@
 <p> If want more memes, refresh the page 😂 </p>
 
 ##
+<p align="center">Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. </p>
+<p align="center">If you like the Repository give it a ⭐ and also follow me on Github 🥰</p>
 <p align="center">Thanks for passing by 😊 </p>
 
 <hr>
