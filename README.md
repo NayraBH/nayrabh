@@ -1,6 +1,6 @@
 ### Hi, I'm Nayra 👋 
 <h4>Full Stack Web Developer</h4>
--->
+
 <p> Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. </p>
 
 <hr>
