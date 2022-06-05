@@ -1,5 +1,4 @@
-### Hi, I'm Nayra 👋
-<!--
+### Hi, I'm Nayra 👋 
 <h4>Full Stack Web Developer</h4>
 -->
 <p> Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. </p>
@@ -15,10 +14,10 @@
 <h3>Languages and Tools:</h3>
 
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <br />
 </p>
 <br>
@@ -35,11 +34,10 @@
 
 </p>
 <hr>
-
-<a href="https://github.com/nayrabh/github-readme-stats">
-   <img width="60%" alt="NayraBH's github stats" src="https://github-readme-stats.vercel.app/api?username=nayrabh&show_icons=true&hide_border=true" />
-</a>
-
+<p align="left">
+<img width="50%" alt="NayraBH's github stats" src="https://github-readme-stats.vercel.app/api?username=nayrabh&show_icons=true&hide_border=true&theme=graywhite&icon_color=FFE300&hide=issues" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayrabh&layout=compact&hide_border=true&theme=graywhite">
+</p>
 <hr>
 
 <h3>Before you go, here is a random meme for you 😜 </h3>
@@ -50,15 +48,7 @@
 ##
 <p align="center">Thanks for passing by 😊 </p>
 
-<!--
-Here are some ideas to get you started:
+<hr>
+Credits: <a href="https://github.com/nayrabh">NayraBH</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last Edited on: 05/06/2022
